@@ -1,13 +1,11 @@
 # 支付宝手机号枚举工具
-## 基于Python3版本编写的小工具
-## 通过了Python的For循环来进行迭代枚举手机号。
+### 基于Python3版本编写的小工具
+### 通过了Python的For循环来进行迭代枚举手机号。
 
 ## 使用
 
-```Python  
-  
+```Python
 python Alipay mobile number enumeration tool .py
-  
 ```
 
 
