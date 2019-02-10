@@ -3,7 +3,8 @@
 ### 自动计算测试的分数。
 
 ## 使用
-建议在Python3环境下运行
+
+
 ```Python
 python Occupational EQ Test.py
 ```
