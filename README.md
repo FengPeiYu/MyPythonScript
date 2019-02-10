@@ -1,4 +1,4 @@
-# MyPythonScript
+# My Python Script
 # 我编写的Python脚本
 # 介绍
  我是一名来自中国的计算机网络专业的学生，2018年我开始进入大学进行深入学习计算机知识。
