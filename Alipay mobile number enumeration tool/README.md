@@ -3,8 +3,12 @@
 ## 通过了Python的For循环来进行迭代枚举手机号。
 
 ## 使用
-python Alipay mobile number enumeration tool .py
 
+```Python  
+  
+python Alipay mobile number enumeration tool .py
+  
+```
 
 
 先输入11位手机号码前3位，
