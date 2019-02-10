@@ -4,6 +4,7 @@ import os
 import time
 
 #支付宝手机号枚举工具
+#   2019年2月10日
 #	By FengPeiYu
 # 	phonenumber= 186******17
 f = open("PhpNumber.txt", "w+")
